@@ -3,7 +3,7 @@
 A simple Java-based GUI application for managing scholarship data designed for educational institutions or scholarship providers.
 🚀 Features
 
-🔐 Login Authentication
+🔐 Login Authentication//
 ➕ Add New Scholarships
 📝 Update Existing Scholarship Details
 ❌ Remove Scholarships
