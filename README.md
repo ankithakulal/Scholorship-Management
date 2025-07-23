@@ -32,4 +32,10 @@ A simple Java-based GUI application for managing scholarship data designed for e
 - Splash.java # Optional splash screen
 - Home.java # Main dashboard after login
 
+🔧 How to Run
+
+1. Set up your database and create the necessary tables.
+2. Update your DB credentials in Conn.java.
+3. Open the project in NetBeans or Eclipse.
+4. Run the Splash.java or login.java file to start the app.
 
