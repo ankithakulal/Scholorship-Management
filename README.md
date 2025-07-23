@@ -19,10 +19,11 @@ A simple Java-based GUI application for managing scholarship data designed for e
 - Database connectivity using JDBC
 
 Technologies Used
- Java (Swing for GUI)
- JDBC for database connection
- MySQL or Oracle DB (Assumed)
- NetBeans or Eclipse (for development)
+
+- Java (Swing for GUI)
+- JDBC for database connectio
+- MySQL or Oracle DB (Assumed)
+- NetBeans or Eclipse (for development)
 
 Project Structure
 
