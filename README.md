@@ -18,7 +18,7 @@ A simple Java-based GUI application for managing scholarship data designed for e
  
 - Database connectivity using JDBC
 
-Technologies Used
+🛠️ Technologies Used
 
 - Java (Swing for GUI)
 - JDBC for database connectio
