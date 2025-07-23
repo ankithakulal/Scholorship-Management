@@ -27,7 +27,7 @@ A simple Java-based GUI application for managing scholarship data designed for e
 - MySQL or Oracle DB (Assumed)
 - NetBeans or Eclipse (for development)
 
-Project Structure
+📂 Project Structure
 
 ├── AddScholarship.java
 
