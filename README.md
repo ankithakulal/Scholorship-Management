@@ -23,20 +23,13 @@ A simple Java-based GUI application for managing scholarship data designed for e
 
 📂 Project Structure
 
-├── AddScholarship.java
-
-├── RemoveScholarship.java
-
-├── UpdateScholarship.java
-
-├── ViewScholarship.java
-
-├── login.java
-
-├── Conn.java # Database connection helper
-
-├── Splash.java # Optional splash screen
-
-├── Home.java # Main dashboard after login
+- AddScholarship.java
+- RemoveScholarship.java
+- UpdateScholarship.java
+- ViewScholarship.java
+- login.java
+- Conn.java # Database connection helper
+- Splash.java # Optional splash screen
+- Home.java # Main dashboard after login
 
 
