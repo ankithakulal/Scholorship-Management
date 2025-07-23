@@ -36,10 +36,4 @@ Project Structure
 ├── Splash.java # Optional splash screen
 ├── Home.java # Main dashboard after login
 
-🔧 How to Run
 
-1. Make sure you have **Java** and your **JDK** installed.
-2. Set up your database (MySQL/Oracle) with the required table structure.
-3. Update your `Conn.java` file with appropriate DB credentials:
-   ```java
-   Connection c = DriverManager.getConnection("jdbc:mysql://localhost:3306/scholarship_db", "root", "password");
