@@ -2,6 +2,7 @@
 
 A simple Java-based GUI application for managing scholarship data designed for educational institutions or scholarship providers.
 
+
 🚀 Features
  
 - Login Authentication
@@ -18,6 +19,7 @@ A simple Java-based GUI application for managing scholarship data designed for e
  
 - Database connectivity using JDBC
 
+
 🛠️ Technologies Used
 
 - Java (Swing for GUI)
@@ -28,12 +30,19 @@ A simple Java-based GUI application for managing scholarship data designed for e
 Project Structure
 
 ├── AddScholarship.java
+
 ├── RemoveScholarship.java
+
 ├── UpdateScholarship.java
+
 ├── ViewScholarship.java
+
 ├── login.java
+
 ├── Conn.java # Database connection helper
+
 ├── Splash.java # Optional splash screen
+
 ├── Home.java # Main dashboard after login
 
 
